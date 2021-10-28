@@ -1,0 +1,107 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: grey;
+    display: grid;
+    letter-spacing: 1px;
+    
+   
+}
+
+
+section {
+    color: grey;
+    text-align: center;
+    background: #fff;
+    border-radius: 50px;
+    padding: 3rem;
+    font-size: 20px;
+    box-shadow: 2px 2px 16px rgba(0,0,0, 1);
+    font-family: Times New Roman;  
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left:350px;
+    margin-right: 350px;
+    align-items: center;
+    justify-items: center;
+}
+ 
+button {
+    text-decoration: none;
+    border-radius: 60px;
+    height: 40px;
+    width: 100px;
+    text-align:center;    
+    font-style: italic;   
+    box-shadow: 2px 2px 16px rgba(0,0,0, 0.30); 
+}
+
+
+button:hover {
+    background: #fff;
+  
+}
+
+.projetos {
+    color: grey;    
+    background: #fff;
+    border-radius: 50px;
+    padding: 3rem;
+    font-size: 20px;
+    box-shadow: 2px 2px 16px rgba(0,0,0, 1);
+    font-family: Times New Roman;    
+    margin-top: 20px;    
+    margin-bottom: 50px;
+    margin-left:350px;
+    margin-right: 350px;
+    align-items: grid;
+  
+}
+.imagem-projeto {
+    border-radius: 100px;
+    text-align: left;
+    margin-top: 0px;
+
+}
+
+ul {
+    list-style: none;
+}
+
+.projeto1,.projeto2,.projeto3 {
+    text-align: right;
+    position: relative;
+    top:20px;
+
+}
+.botao-projeto{
+    position: relative;
+    
+    right: 50px;
+    margin-left: 50px;
+}
+
+
+
+   
+    
+    
+    
+
+    
+    
+    
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
