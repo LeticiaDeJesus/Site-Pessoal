@@ -4,8 +4,7 @@ body{
     background: grey;
     display: grid;
     letter-spacing: 1px;
-    
-   
+  
 }
 
 
@@ -54,13 +53,14 @@ button:hover {
     margin-bottom: 50px;
     margin-left:350px;
     margin-right: 350px;
-    align-items: grid;
+    display: inline;
   
 }
 .imagem-projeto {
     border-radius: 100px;
     text-align: left;
     margin-top: 0px;
+    
 
 }
 
@@ -77,7 +77,7 @@ ul {
 .botao-projeto{
     position: relative;
     
-    right: 50px;
+    right: auto;
     margin-left: 50px;
 }
 
